@@ -120,7 +120,7 @@ const finalizarCompra = () => {
         text: "El total a pagar es $" + sumaTotalProductos() + " pesos.",
         imageUrl: "../multi/logo.png",
         imageWidth: 160,
-        imageAlt: "Coches de Metal",
+        imageAlt: "MF gamer",
         showCancelButton: true,
         confirmButtonColor: "#3085d6",
         cancelButtonColor: "#d33",
